@@ -173,7 +173,6 @@ function UpdateResourcesList() {
             "href": isSiteAvailable ? ("ftp://" + info_resource["siteAddress"] + "/" + info_resource["path"]) : "",
             "target": "_blank"
         }));
-        console.log(testedSiteOnline);
         downloadNode.appendTo($resourcesListGrid);
         var publisherNode = $("<div></div>", {
             "class": "publisher listItem textCenter"
@@ -232,10 +231,11 @@ function TestSitesOnline(){
             if (siteInfo["status"] == "normal") $.ajax({
                 type: "get",
                 url: siteInfo["addressForTestOnline"],
-                timeout: 80,
+                timeout: 120,
                 dataType: "jsonp",
                 complete: function (response) {
                     siteInfo["testedOnline"] = true;
+                    console.log(response.status);
                     siteInfo["isOnline"] = (response.status == 200);
                 }
             });
@@ -246,7 +246,7 @@ function TestSitesOnline(){
             UpdateResourcesList();
             UpdateSitesList();
         }
-    },100);
+    },150);
 }
 
 function CreatTitleNode(css, text, onclick) {
