@@ -1,0 +1,34 @@
+[
+  {
+    "status":"normal",
+    "name":"潜行吧！绅士子",
+    "owner": "团子",
+    "address": "172.16.72.222:21",
+    "addressForTestOnline":"http://172.16.72.222/online.json"
+  },
+  {
+    "status": "normal",
+    "hidden":false,
+    "category": "动画",
+    "subcategory": "BDrip",
+    "from": ["Sumisora","Xrip","UCCUSS"],
+    "title": "潜行吧！奈亚子（合集）",
+    "resourceName": "Haiyore!Nyaruko san[Coleection]",
+    "size": "33,426,519,507",
+    "path": "动画1/潜行吧！奈亚子 合集[BDRip]",
+    "magnet": "",
+    "publishDate": 1511190728000
+  }, {
+  "status": "normal",
+  "hidden":false,
+  "category": "音乐",
+  "subcategory": "Hi-Res",
+  "from": ["TSDM"],
+  "title": "安野希世乃 - 涙。",
+  "resourceName": "Yasuno Kiyono - Namida.",
+  "size": "517,456,637",
+  "path": "音乐/安野希世乃 - 涙。",
+  "magnet": "",
+  "publishDate": 1511190728000
+}
+]

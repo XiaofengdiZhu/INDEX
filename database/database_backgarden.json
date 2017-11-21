@@ -1,0 +1,34 @@
+[
+  {
+    "status":"normal",
+    "name":"后花园",
+    "owner": "会员甲",
+    "address": "172.16.31.165:21",
+    "addressForTestOnline":"http://172.16.31.165/online.json"
+  },
+  {
+    "status": "normal",
+    "hidden":false,
+    "category": "动画",
+    "subcategory": "BDrip",
+    "from": ["ANK-Raws"],
+    "title": "来自新世界 新世界より (2012)",
+    "resourceName": "Shinsekai Yori [1920x1080]",
+    "size": "35,768,365,056",
+    "path": "Disk E/Shinsekai Yori [1920x1080]",
+    "magnet": "",
+    "publishDate": 1511193248475
+  }, {
+  "status": "normal",
+  "hidden":false,
+  "category": "电影",
+  "subcategory": "BDMV",
+  "from": ["FGT"],
+  "title": "最终幻想15：王者之剑 Kingsglaive Final Fantasy XV (2016)",
+  "resourceName": "Kingsglaive.Final.Fantasy.XV.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-FGT",
+  "size": "35,177,496,576",
+  "path": "Disk F/Movies/Kingsglaive.Final.Fantasy.XV.2016.1080p.BluRay.AVC.DTS-HD.MA.5.1-FGT",
+  "magnet": "",
+  "publishDate": 1511193248475
+}
+]

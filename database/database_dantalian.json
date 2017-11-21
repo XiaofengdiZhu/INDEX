@@ -1,0 +1,34 @@
+[
+    { 
+        "status":"normal",
+        "name":"丹特丽安的FTP", 
+        "owner": "阿多米妮斯多蕾特", 
+        "address": "172.16.25.68:21",
+        "addressForTestOnline":"http://172.16.25.68/online.json"
+    },
+    {
+        "status": "normal",
+        "hidden":false,
+        "category": "动画", 
+        "subcategory": "BDrip", 
+        "from": ["VCB-Studio"],
+        "title": "混凝土革命 超人幻想 コンクリート・レボルティオ 超人幻想 (2015) 两季全", 
+        "resourceName": "[VCB-Studio] Concrete Revolutio Choujin Gensou [Ma10p_1080p]", 
+        "size": "42,518,713,413",
+        "path": "动画Anime/超人幻想(39.6g)[VCB-Studio] Concrete Revolutio Choujin Gensou [Ma10p_1080p]", 
+        "magnet": "magnet:?xt=urn:btih:897E0E84D9E781F0089E0D102887D6AC4B768D74",
+        "publishDate": 1510895610605
+    }, {
+        "status": "normal",
+        "hidden":false,
+        "category": "电影",
+        "subcategory": "BDrip",
+        "from": ["BRMP"],
+        "title": "哈勃望远镜 Hubble 3D (2010)",
+        "resourceName": "IMAX.Hubble.2010.1080p.BluRay.x264-BRMP",
+        "size": "4,695,082,204",
+        "path": "电影Movie/哈勃望远镜(4.4g)IMAX.Hubble.2010.1080p.BluRay.x264-BRMP",
+        "magnet": "magnet:?xt=urn:btih:C30C47842D5C569E507CB4BE2A4973BFC354CF62",
+        "publishDate": 1510897965924
+    }
+]

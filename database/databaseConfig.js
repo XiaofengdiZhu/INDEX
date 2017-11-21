@@ -4,7 +4,9 @@ var database_resources = [];
 var addedSiteCount = 0;
 
 //此处加载数据库文件
-//LoadDatabaseFromFile("database_example.json");
+LoadDatabaseFromFile("database_dantalian.json");
+LoadDatabaseFromFile("database_HaiyoreHentaiko.json");
+LoadDatabaseFromFile("database_backgarden.json");
 
 function LoadDatabaseFromFile(name) {
     $.ajax({
